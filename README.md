@@ -23,7 +23,7 @@ Here are some questions that can be answered by the visualizations on your coffe
   
 7. **How does the order date range impact sales patterns?**
  
-Based on the coffee sales dashboard, here are some recommendations:
+## Based on the coffee sales dashboard, here are some recommendations:
 
   Focus on Popular Coffee Types:
         Excelsa and Liberica are the most preferred coffee types, as shown in the pie chart. It would be beneficial to focus marketing efforts on these varieties, perhaps by promoting them more prominently or introducing new products featuring these coffee types.
